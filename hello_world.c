@@ -4,6 +4,7 @@ int main(){
 	int i;
 	char name[20];
 	
+	printf("Enter your name: ");
 	scanf("%s", &name);
 	
 	printf("Hello World, ");
